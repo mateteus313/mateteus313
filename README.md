@@ -1,5 +1,6 @@
 Olá, meu nome é Matheus e atualmente estou interessado em melhorar tanto no backend como no frontend.
-Tenho bacharelado em Programação de Jogos Digitais e resolvi seguir adiante com desenvolvimento web e de pequenos projetos, porém quero dar os primeiros passos aqui no GitHub
-como uma forma de aperfeiçoar minhas habilidades e uma melhor organização.
+Tenho bacharelado em Programação de Jogos Digitais e resolvi seguir adiante com desenvolvimento web e de pequenos projetos. Buscando me formar como Engenheiro da Computação.
 
-Espero poder colaborar onde for possível.
+Atualmente possuo e estou estudando diferentes linguagens de programação, como: ReactJS, Javascript, Python, C#, CSS, HTML.
+
+Possuo conhecimento avançado na parte da Tecnologia da Informação.
